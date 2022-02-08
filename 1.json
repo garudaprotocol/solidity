@@ -2,6 +2,5 @@
   "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
   "external_url": "https://openseacreatures.io/3", 
   "image": "https://raw.githubusercontent.com/garudaprotocol/solidity/main/1.png", 
-  "name": "Contol One",
-  "attributes": []
+  "name": "Contol One"
 }
